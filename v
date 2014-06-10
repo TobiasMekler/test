@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-sdfdfsdfsdf
-=======
-dfgadfg
->>>>>>> origin/master
+test
